@@ -23,6 +23,7 @@ listBtn.addEventListener('click', () => {
         `;
         classEl.insertAdjacentHTML('beforeend', html);
     });
+    
 });
 
 
